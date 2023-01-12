@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi, I'm Emery.
+/ˈɛm.ə˞ ˌɹiː/  
+_he ~ him ~ his ~ himself_  
 
-<!--
-**ThePineappleW/ThePineappleW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Computer Science and Linguistics
+Northeastern University - '25  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Languages
+- Java
+- JS/HTML/CSS
+  - Node
+  - React
+  - Express
+- Python
+- Racket
+- Common Lisp
+- Haskell
+
+### Interests
+- 📝 Natural Language Processing
+- 🎞 Theory of Computation
+- 💬 Linguistics
+  - Theoretical
+  - Practical
+- 🗣️ Language Learning
+  - 🇫🇮 Finnish
+  - 🇮🇱 Hebrew
+  - 🇬🇪 Georgian
+  - 📜 Latin
+  - ⭐ Esperanto
+- 🗺️ Geography
+- 🍳 Cooking

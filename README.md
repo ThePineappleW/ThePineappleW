@@ -6,6 +6,9 @@ _he ~ him ~ his ~ himself_
 ### Computer Science and Linguistics
 Northeastern University - '25  
 
+Not all projects are public, for privacy and academic integrity.
+Please email me at jacobowitz.e@northeastern.edu for unlisted projects.
+
 ### 🖥 Languages
 - Java
 - JS/HTML/CSS

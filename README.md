@@ -1,6 +1,6 @@
 /ˈɛm.məɹˌɹiː/  
 Emery   
-<p>PN.<span style="font-variant:small-caps;">3s.m.nom</span></p>
+`PN.3S.M.NOM`
 'computational linguist'
 
 
